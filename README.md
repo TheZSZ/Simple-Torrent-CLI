@@ -8,7 +8,7 @@ Please respect the internet usage laws of your country.
 
 ## Requirements
 ```
-pip3 install libtorrent python-libtorrent
+pip3 install -r requirements.txt
 ```
 
 ## Usage
